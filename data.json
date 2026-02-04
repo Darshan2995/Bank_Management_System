@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Darshan Salunkhe",
+        "age": 21,
+        "email": "salunkhedarshan408@gmail.com",
+        "pin": 1234,
+        "acc_No": 1234,
+        "balance": 0
+    },
+    {
+        "name": "OMKAR SALUNKHE",
+        "age": 26,
+        "email": "abc@gmail.com",
+        "pin": 1111,
+        "acc_No": "15Am5&W",
+        "balance": 1000
+    },
+    {
+        "name": "Darshan Salunkhe",
+        "age": 20,
+        "email": "salunkhedarshan408@gmail.com",
+        "pin": 1234,
+        "acc_No": "C6!VX44",
+        "balance": 0
+    }
+]
